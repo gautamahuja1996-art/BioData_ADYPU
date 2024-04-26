@@ -1,0 +1,17 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+
+#submitbtn{
+    background-color: rgb(68, 68, 231);
+    color: white;
+    width: 100px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.bioform{
+    text-align: center;
+}
